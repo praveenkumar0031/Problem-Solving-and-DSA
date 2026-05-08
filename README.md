@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0200-number-of-islands) |
 | [3660-jump-game-ix](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3660-jump-game-ix) |
 ## Depth-First Search
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0143-reorder-list) |
 ## Stack
 |  |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3660-jump-game-ix](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3660-jump-game-ix) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
