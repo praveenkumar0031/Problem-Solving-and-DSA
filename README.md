@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0043-multiply-strings](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0043-multiply-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0043-multiply-strings) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
@@ -88,5 +90,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0043-multiply-strings) |
 | [2553-separate-the-digits-in-an-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
