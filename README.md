@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0088-merge-sorted-array) |
+| [0198-house-robber](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0200-number-of-islands) |
 | [2553-separate-the-digits-in-an-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0198-house-robber) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3660-jump-game-ix) |
 ## Sorting
