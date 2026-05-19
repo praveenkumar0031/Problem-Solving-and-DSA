@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0200-number-of-islands) |
+| [0518-coin-change-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0518-coin-change-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0198-house-robber) |
+| [0518-coin-change-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0518-coin-change-ii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3660-jump-game-ix) |
 ## Sorting
