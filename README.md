@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0063-unique-paths-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0200-number-of-islands) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0200-number-of-islands) |
 ## Linked List
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0518-coin-change-ii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
