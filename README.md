@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0043-multiply-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Sliding Window
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0200-number-of-islands) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -112,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+## Tree
+|  |
+| ------- |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Binary Tree
+|  |
+| ------- |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
