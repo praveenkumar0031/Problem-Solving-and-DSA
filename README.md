@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0904-fruit-into-baskets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0904-fruit-into-baskets) |
 | [1871-jump-game-vii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1871-jump-game-vii) |
 ## Array
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0200-number-of-islands) |
 | [0518-coin-change-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0518-coin-change-ii) |
+| [0904-fruit-into-baskets](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0904-fruit-into-baskets) |
 | [2553-separate-the-digits-in-an-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
