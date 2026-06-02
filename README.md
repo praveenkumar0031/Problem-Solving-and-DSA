@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3660-jump-game-ix](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3660-jump-game-ix) |
 ## Depth-First Search
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0088-merge-sorted-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Tree
 |  |
 | ------- |
@@ -158,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 <!---LeetCode Topics End-->
