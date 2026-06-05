@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0010-regular-expression-matching) |
 | [0043-multiply-strings](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0072-edit-distance) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -105,10 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0010-regular-expression-matching) |
 | [0143-reorder-list](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0143-reorder-list) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0010-regular-expression-matching) |
 | [0063-unique-paths-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0198-house-robber) |
