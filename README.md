@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0844-backspace-string-compare](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
@@ -195,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0047-permutations-ii) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
