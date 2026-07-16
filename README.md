@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3660-jump-game-ix](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3660-jump-game-ix) |
 | [3814-maximum-capacity-within-budget](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3814-maximum-capacity-within-budget) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Depth-First Search
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3814-maximum-capacity-within-budget](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3814-maximum-capacity-within-budget) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3814-maximum-capacity-within-budget](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3814-maximum-capacity-within-budget) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -187,12 +190,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0258-add-digits) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -200,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0844-backspace-string-compare) |
 | [2553-separate-the-digits-in-an-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
