@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0258-add-digits) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0258-add-digits) |
+| [3312-sorted-gcd-pair-queries](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3620-network-recovery-pathways) |
@@ -246,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1871-jump-game-vii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
 |  |
@@ -273,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1189-maximum-number-of-balloons) |
+| [3312-sorted-gcd-pair-queries](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -299,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3620-network-recovery-pathways) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
