@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1871-jump-game-vii) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Backtracking
