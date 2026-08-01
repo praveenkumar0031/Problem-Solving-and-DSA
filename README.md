@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0547-number-of-provinces) |
 | [0938-range-sum-of-bst](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0938-range-sum-of-bst) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0938-range-sum-of-bst) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0938-range-sum-of-bst) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0047-permutations-ii) |
+| [0113-path-sum-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0113-path-sum-ii) |
 ## Design
 |  |
 | ------- |
