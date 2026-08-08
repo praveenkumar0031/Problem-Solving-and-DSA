@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0844-backspace-string-compare) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3814-maximum-capacity-within-budget](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3814-maximum-capacity-within-budget) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1871-jump-game-vii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3620-network-recovery-pathways) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Backtracking
