@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1871-jump-game-vii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Array
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
