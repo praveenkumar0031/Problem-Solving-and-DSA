@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1871-jump-game-vii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Array
 |  |
