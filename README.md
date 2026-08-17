@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0072-edit-distance) |
 | [0383-ransom-note](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1140-stone-game-ii) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0844-backspace-string-compare) |
 | [2553-separate-the-digits-in-an-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
