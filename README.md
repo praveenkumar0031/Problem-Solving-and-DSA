@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0904-fruit-into-baskets) |
 | [1140-stone-game-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1386-cinema-seat-allocation](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0287-find-the-duplicate-number) |
+| [1386-cinema-seat-allocation](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
