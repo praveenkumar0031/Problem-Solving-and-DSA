@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1927-sum-game) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
