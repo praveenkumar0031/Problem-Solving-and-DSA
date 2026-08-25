@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3660-jump-game-ix](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3660-jump-game-ix) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3731-find-missing-elements) |
 | [3814-maximum-capacity-within-budget](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3814-maximum-capacity-within-budget) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
