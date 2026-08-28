@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0010-regular-expression-matching) |
 | [0043-multiply-strings](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0072-edit-distance) |
+| [0345-reverse-vowels-of-a-string](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0844-backspace-string-compare) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
