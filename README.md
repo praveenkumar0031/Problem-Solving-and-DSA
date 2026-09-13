@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0518-coin-change-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0904-fruit-into-baskets) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
