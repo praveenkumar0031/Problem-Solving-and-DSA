@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0844-backspace-string-compare) |
 | [2553-separate-the-digits-in-an-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
