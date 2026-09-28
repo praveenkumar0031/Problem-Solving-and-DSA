@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1871-jump-game-vii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1927-sum-game) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0844-backspace-string-compare](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0844-backspace-string-compare) |
 | [1096-brace-expansion-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -484,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
