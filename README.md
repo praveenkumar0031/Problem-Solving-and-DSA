@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0072-edit-distance) |
 | [0345-reverse-vowels-of-a-string](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0022-generate-parentheses) |
 | [0063-unique-paths-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0072-edit-distance) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0113-path-sum-ii) |
 | [1096-brace-expansion-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1096-brace-expansion-ii) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
