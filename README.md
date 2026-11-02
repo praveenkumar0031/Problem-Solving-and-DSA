@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0213-house-robber-ii) |
 | [0228-summary-ranges](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0518-coin-change-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0835-image-overlap) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0415-add-strings) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/0877-stone-game) |
