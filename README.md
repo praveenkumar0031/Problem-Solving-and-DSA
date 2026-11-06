@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1871-jump-game-vii) |
+| [2747-count-zero-request-servers](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2747-count-zero-request-servers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2747-count-zero-request-servers](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2747-count-zero-request-servers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
