@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Backtracking
 |  |
 | ------- |
