@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/1927-sum-game) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/praveenkumar0031/Problem-Solving-and-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
